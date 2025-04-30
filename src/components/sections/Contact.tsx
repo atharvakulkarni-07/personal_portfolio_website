@@ -136,7 +136,7 @@ const Contact: React.FC = () => {
                   </svg>
                 </a>
                 <a 
-                  href="https://www.linkedin.com/in/atharva-kulkarni-3b13a3255/https://linkedin.com" 
+                  href="https://www.linkedin.com/in/atharva-kulkarni-3b13a3255/" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="bg-white dark:bg-[#112240] p-3 rounded-full text-[#0a192f] dark:text-[#ccd6f6] hover:text-[#64ffda] dark:hover:text-[#64ffda] transition-colors"
