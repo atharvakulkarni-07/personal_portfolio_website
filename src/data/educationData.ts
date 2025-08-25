@@ -11,7 +11,7 @@ export interface Education {
 export const educationData: Education[] = [
   {
     degree: "B.Tech (Aerospace Engineering)",
-    grade: "8.17 CGPA",
+    grade: "8.35 CGPA",
     institution: "Indian Institute of Technology Madras",
     duration: "2022 - 2026",
     location: "Chennai, Tamil Nadu",
@@ -27,14 +27,14 @@ export const educationData: Education[] = [
     ],
     achievements: [
       "1st Prize at DB AI-in-Fintech Hackathon",
-      "Onboarded UNESCO, Startup India, Make in India as Patronages for E-Summit 2024",
+      "Onboarded UNESCO, Startup India and Make in India as Patronages for E-Summit 2024 singlehandedly (India's only ISO 9001:2015 certified E-Summit)",
     ]
   },
   {
     degree: "Higher Secondary",
     grade: "87.00%",
     institution: "JES College",
-    duration: "2022",
+    duration: "2020 - 2022",
     location: "Jalna, Maharashtra",
     courses: [
       "Physics",
@@ -51,7 +51,7 @@ export const educationData: Education[] = [
     degree: "Secondary",
     grade: "95.80%",
     institution: "St. Mary's High School",
-    duration: "2020",
+    duration: "2008 - 2020",
     location: "Jalna, Maharashtra",
     courses: [
       "Mathematics",

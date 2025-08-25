@@ -45,11 +45,11 @@ const About: React.FC = () => {
             
             <p className="text-lg text-[#8892b0] dark:text-[#8892b0] mb-4">
               Currently pursuing my B.Tech in Aerospace Engineering at IIT Madras, 
-              I've had the opportunity to work on exciting projects in AI research and machine learning.
+              I've had the opportunity to work on exciting projects in fullstack web development, AI research and machine learning.
             </p>
             
             <p className="text-lg text-[#8892b0] dark:text-[#8892b0] mb-8">
-              My experience includes developing, fine-tuning and deploying object detection models for real-time applications
+              My experience includes developing comprehensive document digitization pipeline using ReactJS, Python and CrewAI, fine-tuning and deploying object detection models for real-time applications
               and creating machine learning models for healthcare applications. I'm proficient in a variety of
               programming languages and frameworks, with a particular focus on React, NodeJS, C++ and Python.
             </p>

@@ -27,7 +27,7 @@ export const educationData = [
     degree: "Higher Secondary",
     grade: "87.00%",
     institution: "JES College",
-    duration: "2022",
+    duration: "2020 - 2022",
     location: "Jalna, Maharashtra",
     courses: [
       "Physics",

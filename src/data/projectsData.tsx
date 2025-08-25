@@ -9,7 +9,7 @@ export const projectsData = [
   //   demo: "https://my-fitness-gym.vercel.app",
   // },
   {
-    title: "workflow.ai",
+    title: "Workflow.ai",
     description: "An interactive AI workflow builder that lets users create, configure, and execute multi-step AI automation pipelines through a drag-and-drop interface",
     image: "workflowaiimage.png",
     technologies: ["React.js", "Node.js", "Express.js", "MongoDB", "Axios"],
@@ -46,9 +46,9 @@ export const projectsData = [
   },
   {
     title: "Library Management System",
-    description: "A C++ console-based application that provides an intuitive way to plan metro routes and calculate fares based on the distance traveled",
-    image: "metromate_image.png",
-    technologies: ["C++", "Heap", "Dijkstra's Algorithm", "Data Structures"],
+    description: "An efficient Library Management System with member management, book cataloging and transaction tracking features.",
+    image: "library_image.png",
+    technologies: ["Java 21", "Maven", "Spring Boot", "PostgreSQL"],
     category: "Data Structures",
     github: "https://github.com",
     demo: null,
