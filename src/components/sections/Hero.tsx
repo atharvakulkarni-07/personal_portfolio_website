@@ -2,10 +2,10 @@ import React, { useEffect, useState } from 'react';
 import { ArrowRight } from 'lucide-react';
 
 const rotatingTexts = [
-  "I build Amazing Experiences",
-  "I build Websites",
-  "I love solving complex problems",
-  "Exploring the world through Computer Vision",
+  "I build Amazing Experiences.",
+  "I love solving complex problems.",
+  "I build Websites.",
+  "Let's Connect!",
 ];
 
 const Hero: React.FC = () => {
