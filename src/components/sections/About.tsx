@@ -83,7 +83,7 @@ const About: React.FC = () => {
             <div className="relative group">
               <div className="w-64 h-64 rounded-md overflow-hidden border-2 border-[#64ffda] p-2 hover:p-0 transition-all duration-300">
                 <img 
-                  src="portfolio_image.jpeg" 
+                  src="linkedin_profile_pic.jpeg" 
                   alt="Atharva Vijay Kulkarni"
                   className="w-full h-full object-cover rounded-md grayscale hover:grayscale-0 transition-all duration-300"
                 />
